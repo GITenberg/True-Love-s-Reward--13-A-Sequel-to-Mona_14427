@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3912'
     url: http://www.gutenberg.org/2009/agents/3912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14427#True-Love-s-Reward--13-A-Sequel-to-Mona
 gutenberg_issued: '2004-12-23'
 gutenberg_type: Text
 identifiers:
